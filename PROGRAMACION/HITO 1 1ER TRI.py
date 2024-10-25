@@ -112,6 +112,7 @@ if puntos_maquina == 3:
 elif tu_puntuacion == 3:
     print("El juego se ha acabado, !Felicidades has ganado la partida!")
 '''
+print("Estefan")
 opciones = int
 accion = str
 ingreso = 0.0
