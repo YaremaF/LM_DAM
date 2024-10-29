@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background-image: url("img/fondo2.png");
+}
+img{
+    width: 1408px;
+}
+p2{
+    text-align: center;
+}
+p2 {
+    color: red;
+    text-align: center;
+    font-size: 30px;
+}
+p4{
+    font-size: 80px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+
+p3 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+
