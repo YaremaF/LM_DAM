@@ -1,30 +1,37 @@
-body{
-    text-align: center;
-    background-image: url("img/fondo2.png");
-}
-img{
-    width: 1408px;
-}
-p2{
-    text-align: center;
-}
-p2 {
-    color: red;
-    text-align: center;
-    font-size: 30px;
-}
-p4{
-    font-size: 80px;
-    background-color: black;
-    color: white;
-    text-align: center;
-}
 
+    body{
+        text-align: center;
+        background-image: url("img/fonndo.png");
+    }
+    img{
+        width: 500px;
+    }
+    .menu{
+        color: red;
+        text-align: center;
+        border: 2px;
+        font-size: 30px;
+    }
 
-p3 {
-    background-color: black;
-    color: white;
-    text-align: center;
-    font-size: 40px;
-}
+    .al_lado_foto{
+        font-family: 'Butcherman', cursive;
+        font-size: 80px;
+        background-color: black;
+        color: white;
+        text-align: center;
+    }
+
+    .centro{
+
+        text-align: center;
+        
+        
+    }
+
+    p3 {
+        background-color: black;
+        color: white;
+        text-align: center;
+        font-size: 40px;
+    }
 
